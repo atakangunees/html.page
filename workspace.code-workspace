@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\html.cielbleu"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html.page"
+	}
+}
